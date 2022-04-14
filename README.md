@@ -4,3 +4,8 @@ El método Monte Carlo es un método en el que por medio de la estadística y la
 ## Método 
 El uso del método de Monte Carlo para aproximar el valor de Pi consiste en dibujar un cuadrado de lado L, y dentro de ese cuadrado dibujar un círculo con diámetro L, después se mapean puntos de manera aleatoria sobre ambas figuras, distinguiendo los puntos trazados en el cuadrado y en el círculo. Los puntos que están fuera del círculo y los que están dentro, sirven como estimadores de las áreas internas y externas del círculo.
 
+Lado de
+![image](https://user-images.githubusercontent.com/103619172/163489450-82d5d651-20bc-4874-acad-7766ba97b3c3.png)
+
+El área del caudrado está dada como:
+A_cuadrado = 
