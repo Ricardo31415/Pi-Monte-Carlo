@@ -8,4 +8,13 @@ El uso del método de Monte Carlo para aproximar el valor de Pi consiste en dibu
 ![image](https://user-images.githubusercontent.com/103619172/163489569-0387dad3-95d3-49c4-bc74-4a400e7e79d6.png)
 
 El área del caudrado está dada como:
-A_cuadrado = 4r^2 
+A_cuadrado = 4r^2
+
+El áre de la circunferencia es:
+A_circ = pi*r^2 
+
+Obtenemos la relación entre ambas areas:
+A_cuadrado/A_circ = (4r^2)/(pi*r^2)
+
+Por lo tanto:
+pi = 4(A_circ/A_cuadrado)
